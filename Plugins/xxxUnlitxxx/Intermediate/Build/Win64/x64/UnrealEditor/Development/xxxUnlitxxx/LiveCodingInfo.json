@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.xxxUnlitxxx.cpp.obj": [
+			"xxxUnlitxxx.init.gen.cpp.obj",
+			"xxxUnlitxxxBPLibrary.gen.cpp.obj",
+			"xxxUnlitxxx.cpp.obj",
+			"xxxUnlitxxxBPLibrary.cpp.obj"
+		]
+	}
+}

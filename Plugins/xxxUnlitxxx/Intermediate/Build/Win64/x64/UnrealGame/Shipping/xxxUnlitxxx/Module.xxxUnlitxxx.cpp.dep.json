@@ -1,0 +1,20 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\gamedev\\unreal projects\\myproject\\plugins\\xxxunlitxxx\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\xxxunlitxxx\\module.xxxunlitxxx.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\gamedev\\unreal projects\\myproject\\intermediate\\build\\win64\\x64\\myproject\\shipping\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "d:\\gamedev\\unreal projects\\myproject\\plugins\\xxxunlitxxx\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\xxxunlitxxx\\definitions.xxxunlitxxx.h",
+            "d:\\gamedev\\unreal projects\\myproject\\plugins\\xxxunlitxxx\\intermediate\\build\\win64\\unrealgame\\inc\\xxxunlitxxx\\uht\\xxxunlitxxx.init.gen.cpp",
+            "d:\\gamedev\\unreal projects\\myproject\\plugins\\xxxunlitxxx\\intermediate\\build\\win64\\unrealgame\\inc\\xxxunlitxxx\\uht\\xxxunlitxxxbplibrary.gen.cpp",
+            "d:\\gamedev\\unreal projects\\myproject\\plugins\\xxxunlitxxx\\source\\xxxunlitxxx\\public\\xxxunlitxxxbplibrary.h",
+            "d:\\gamedev\\unreal projects\\myproject\\plugins\\xxxunlitxxx\\intermediate\\build\\win64\\unrealgame\\inc\\xxxunlitxxx\\uht\\xxxunlitxxxbplibrary.generated.h",
+            "d:\\gamedev\\unreal projects\\myproject\\plugins\\xxxunlitxxx\\source\\xxxunlitxxx\\private\\xxxunlitxxx.cpp",
+            "d:\\gamedev\\unreal projects\\myproject\\plugins\\xxxunlitxxx\\source\\xxxunlitxxx\\public\\xxxunlitxxx.h",
+            "d:\\gamedev\\unreal projects\\myproject\\plugins\\xxxunlitxxx\\source\\xxxunlitxxx\\private\\xxxunlitxxxbplibrary.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
